@@ -1,12 +1,8 @@
 # Turbina Music Player
 
-**Web-player application for Marshak children bookshop.**
-
-**Веб-приложение с возможностью прослушивания музыки для книжного магазина Маршак.**
-
-**Figma**
-
-[Ссылка на макет в Figma](https://www.figma.com/file/P8rK0IWyoZtBghcwWACXcC/TURBINA_1?node-id=844%3A2)
+Веб-прложение разработанное для книжного магазина Маршак https://marshakbooks.ru/. Цель поддержание деткого твочества и идивидуальной мысли.
+Адаптивная кроссбраузерная верстка согласно [макету в Figma](https://www.figma.com/file/P8rK0IWyoZtBghcwWACXcC/TURBINA_1?node-id=844%3A2).
+проект разработан на React, есть возможность прослушивания музыки, заполнения формы для отправки на сервер, данные в которой предварительно проходят проверку на соответствие.
 
 **Ссылка на GitPages**
 
@@ -17,7 +13,7 @@
 1. Клонировать репозиторий:
 
 ```
-git clone https://github.com/dianadomino24/turbina-dd.git
+git clone https://github.com/DaryaLyutova/turbina-dd
 ```
 
 2. Установить зависимости:
